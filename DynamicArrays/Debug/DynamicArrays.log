@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\HP\source\repos\DynamicArrays\DynamicArrays\main.cpp(4,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\HP\source\repos\DynamicArrays\DynamicArrays\main.cpp(29,9): warning C4101: index: неиспользованная локальная переменная
+C:\Users\HP\source\repos\DynamicArrays\DynamicArrays\main.cpp(9,9): warning C4101: size: неиспользованная локальная переменная
+  DynamicArrays.vcxproj -> C:\Users\HP\source\repos\DynamicArrays\Debug\DynamicArrays.exe
